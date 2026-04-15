@@ -1,0 +1,10 @@
+Index	MODEL	RMSD_LB	RMSD_UB	SCORE	SDFMoleculeName	SMILES	TORSDO
+0	1.0	0.0	0.0	-5.552	./ligand1_docked.pdbqt	[H]OC(=O)C(CC1=CC=C(O[H])C(O[H])=C1)N([H])[H]	F 7
+1	2.0	1.964	2.273	-5.271	./ligand1_docked.pdbqt	[H]OC(=O)C(CC1=CC(O[H])=C(O[H])C=C1)N([H])[H]	F 7
+2	3.0	2.568	5.346	-5.238	./ligand1_docked.pdbqt	[H]OC(=O)C(CC1=CC=C(O[H])C(O[H])=C1)N([H])[H]	F 7
+3	4.0	2.153	3.012	-5.126	./ligand1_docked.pdbqt	[H]OC(=O)C(CC1=CC=C(O[H])C(O[H])=C1)N([H])[H]	F 7
+4	5.0	2.002	2.592	-5.07	./ligand1_docked.pdbqt	[H]OC(=O)C(CC1=CC=C(O[H])C(O[H])=C1)N([H])[H]	F 7
+5	6.0	2.619	3.041	-5.038	./ligand1_docked.pdbqt	[H]OC(=O)C(CC1=CC(O[H])=C(O[H])C=C1)N([H])[H]	F 7
+6	7.0	10.631	12.939	-4.752	./ligand1_docked.pdbqt	[H]OC(=O)C(CC1=CC(O[H])=C(O[H])C=C1)N([H])[H]	F 7
+7	8.0	2.598	5.326	-4.665	./ligand1_docked.pdbqt	[H]OC(=O)C(CC1=CC(O[H])=C(O[H])C=C1)N([H])[H]	F 7
+8	9.0	2.765	3.686	-4.557	./ligand1_docked.pdbqt	[H]OC(=O)C(CC1=CC=C(O[H])C(O[H])=C1)N([H])[H]	F 7
